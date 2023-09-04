@@ -15,3 +15,4 @@ on diiffrent system.
 
 5.Personal contribution and your role in the project.
 -: To get the TC from manual team and perform the automation test with valid reports and status.
+4.Tools ,Technologies , and platform used.
