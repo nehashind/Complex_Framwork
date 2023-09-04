@@ -1,0 +1,17 @@
+1.Project Introduction
+Ans-:Currently i  am working on E-hospital system application. this is a Web Base Application. where we can maintain the patients records, stock records ,
+bed history ,inventry .
+
+ 
+2.Modules description.
+Ans-:there are severel modules , dashboard , reports ,mini wallete ,patient management , employee management , but currenty i m working on patient management.
+ 
+3.Advantages and Main Functionality of your application.
+Ans-: Main advantage is we can manage all records from admission to Discharge as well as this app connect hospital and patient no matter where is your patient.
+
+4.Tools ,Technologies , and platform used.
+Ans-: for automation i use Eclipese ID , for maintain the test record i used extent reports , and this application is platform independant so we can install this app 
+on diiffrent system.
+
+5.Personal contribution and your role in the project.
+-: To get the TC from manual team and perform the automation test with valid reports and status.
