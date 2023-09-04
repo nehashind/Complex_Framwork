@@ -37,5 +37,5 @@ public class CommonStepDef {
 	}
 	}
 	    
-
+public void enterUrl(String url)  {}
 
