@@ -16,4 +16,8 @@ on diiffrent system.
 5.Personal contribution and your role in the project.
 -: To get the TC from manual team and perform the automation test with valid reports and status.
 
+1.Project Introduction
+Ans-:Currently i  am working on E-hospital system application. this is a Web Base Application. where we can maintain the patients records, stock records ,
+bed history ,inventry .
+
 
